@@ -1,3 +1,5 @@
+" Credits to https://jez.io/
+
 " Gotta be compatible 
 set nocompatible
 

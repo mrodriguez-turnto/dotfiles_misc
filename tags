@@ -1,0 +1,19 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<leader>b	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^nmap <silent> <leader>b :TagbarToggle<CR>$/;"	m	language:Vim
+<leader>t	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^nmap <silent> <leader>t :NERDTreeTabsToggle<CR>$/;"	m	language:Vim
+delimitMate_expand_cr	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let delimitMate_expand_cr = 1$/;"	v	language:Vim
+g:airline#extensions#hunks#non_zero_only	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:airline#extensions#hunks#non_zero_only = 1$/;"	v	language:Vim
+g:airline#extensions#tabline#enabled	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:airline#extensions#tabline#enabled = 1$/;"	v	language:Vim
+g:airline_detect_paste	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:airline_detect_paste=1$/;"	v	language:Vim
+g:airline_theme	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:airline_theme='solarized'$/;"	v	language:Vim
+g:easytags_async	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:easytags_async = 1$/;"	v	language:Vim
+g:easytags_dynamic_files	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:easytags_dynamic_files = 2$/;"	v	language:Vim
+g:easytags_events	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:easytags_events = ['BufReadPost', 'BufWritePost']$/;"	v	language:Vim
+g:easytags_resolve_links	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:easytags_resolve_links = 1$/;"	v	language:Vim
+g:easytags_suppress_ctags_warning	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:easytags_suppress_ctags_warning = 1$/;"	v	language:Vim
+g:nerdtree_tabs_open_on_console_startup	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:nerdtree_tabs_open_on_console_startup = 1$/;"	v	language:Vim
+g:syntastic_error_symbol	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:syntastic_error_symbol = '✘'$/;"	v	language:Vim
+g:syntastic_warning_symbol	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^let g:syntastic_warning_symbol = "▲"$/;"	v	language:Vim
+K	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^noremap K :SuperMan <cword><CR>$/;"	m	language:Vim
+mydelimitMate	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^augroup mydelimitMate$/;"	a	language:Vim
+mySyntastic	/Users/marcorodnav/work/turnto/projects/dotfiles_misc/vimrc.vim	/^augroup mySyntastic$/;"	a	language:Vim
